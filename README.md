@@ -3,7 +3,7 @@ procedural-planet-part-2
 
 Proceural planet in WebGL and three.js - PART 2
 
-![Resulting planet](https://github.com/holgerl/procedural-planet-part-2/blob/gh-pages/img/planet.png)
+![Resulting planet](https://github.com/holgerl/procedural-planet-part-2/blob/gh-pages/img/planet-part-2b.png)
 
 See [the result](http://holgerl.github.io/procedural-planet-part-2/)
 
